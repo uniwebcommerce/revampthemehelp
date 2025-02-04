@@ -3761,6 +3761,9 @@ input[type=button].btn-block {
   flex-wrap: wrap;
   align-items: stretch;
   width: 100%;
+  padding-left: 20%;
+  padding-right: 20%;
+
 }
 
 .input-group > .form-control,
@@ -10961,7 +10964,7 @@ a.text-dark:focus {
 
 .jumbotron .jumbotron-heading {
   font-weight: 600;
-  font-size: 67px;
+  font-size: 48px;
 }
 
 .jumbotron .search-form {
